@@ -13,5 +13,18 @@ A Flappy Bird-inspired 2D arcade game built with Python and Pygame. Fly your kit
 - **Python** and **Pygame** 
 
 ## 📦 Installation
-Clone the repository
+1. Clone the repository
+2. Navigate to the project folder:
+   cd kite-flyer
+3. Install dependencies:
+   pip install pygame
+4. Run the game:
+   python main.py
+   
+## 🎮 How to Play:
+
+Space Bar / Up Arrow: Tug the string to fly upwards.
+Goal: Navigate as far as possible without hitting birds or poles.
+
+Score: Points are awarded automatically as you pass obstacles.
    
