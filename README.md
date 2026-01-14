@@ -13,5 +13,5 @@ A Flappy Bird-inspired 2D arcade game built with Python and Pygame. Fly your kit
 - **Python** and **Pygame** 
 
 ## 📦 Installation
-1. Clone the repository
+Clone the repository
    
